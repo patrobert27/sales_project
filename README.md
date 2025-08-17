@@ -1,4 +1,4 @@
-# Sales Project: Mini proyecto para empezar, en análisis de ventas
+# Sales Project: Mini proyecto para empezar, en análisis de datos
 
 Este proyecto es un mini proyecto de ciencia de datos que analiza ventas de productos por clientes y ciudades, usando Python y librerías de análisis y visualización de datos.
 
