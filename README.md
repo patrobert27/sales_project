@@ -5,21 +5,17 @@ Este proyecto es un mini proyecto de ciencia de datos que analiza ventas de prod
 ## Estructura del proyecto
 
 sales_project/
-│
-├── data/ # Archivos CSV de entrada
-│ ├── sales.csv
-│ ├── clients.csv
-│ └── products.csv
-│
-├── notebooks/ # Notebooks de análisis
-│ └── analysis.ipynb
-│
-├── src/ # Código fuente
-│ ├── cleaning.py # Funciones para cargar y limpiar datos
-│ ├── analysis.py # Funciones de análisis de ventas
-│ └── visualizations.py # Funciones para gráficos
-│
-└── README.md # Este archivo
+    data/                 # Archivos CSV de entrada
+        sales.csv
+        clients.csv
+        products.csv
+    notebooks/            # Notebooks de análisis
+        analysis.ipynb
+    src/                  # Código fuente
+        cleaning.py       # Funciones para cargar y limpiar datos
+        analysis.py       # Funciones de análisis de ventas
+        visualizations.py # Funciones para gráficos
+    README.md             # Este archivo
 
 
 ## Objetivos
